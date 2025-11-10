@@ -33,8 +33,10 @@ A análise comparativa das lojas revelou a seguinte performance nas métricas fi
 
 Para uma compreensão visual dos resultados, foram gerados os seguintes gráficos:
 
-2. Vendas Trimestrais
+## 2. Vendas Trimestrais
+
 Gráfico de linha mostrando a evolução do faturamento de cada loja ao longo dos trimestres.
+
 ![Gráfico de Vendas Trimestrais por Loja](vendas trimestrais.png)
 
 4. Distribuição Geográfica das Vendas
