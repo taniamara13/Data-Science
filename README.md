@@ -35,7 +35,8 @@ Para uma compreensão visual dos resultados, foram gerados os seguintes gráfico
 
 2. Vendas Trimestrais
 Gráfico de linha mostrando a evolução do faturamento de cada loja ao longo dos trimestres.
+![Vendas Trimestrais por Loja](Vendas trimestrais.png)
 
-3. Distribuição Geográfica das Vendas
+4. Distribuição Geográfica das Vendas
 Gráfico de dispersão que ilustra o alcance e a concentração das vendas por localização
 
