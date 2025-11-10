@@ -16,4 +16,45 @@ Para isso, realizamos uma análise aprofundada dos dados de vendas, desempenho f
 
 •Folium: Utilizada para a criação de visualizações geográficas interativas (Heatmap).
 
+📈 Análise de Desempenho
+
+A análise comparativa das lojas revelou a seguinte performance nas métricas financeiras e de satisfação:
+
+Loja
+Total de Vendas (R$)
+Ticket Médio (R$)
+Avaliação Média
+Frete Médio (R$)
+Loja 1
+1.616.347,09
+685,18
+3.98
+137.99
+Loja 2
+1.567.773,22
+664,59
+4.04
+137.99
+Loja 3
+1.542.047,69
+653,69
+4.05
+137.99
+Loja 4
+1.458.253,46
+618,43
+4.00
+137.99
+
+
+
+🖼️ Visualizações Chave
+
+Para uma compreensão visual dos resultados, foram gerados os seguintes gráficos:
+
+2. Vendas Trimestrais
+Gráfico de linha mostrando a evolução do faturamento de cada loja ao longo dos trimestres.
+
+3. Distribuição Geográfica das Vendas
+Gráfico de dispersão que ilustra o alcance e a concentração das vendas por localização
 
