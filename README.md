@@ -34,14 +34,24 @@ A análise comparativa das lojas revelou a seguinte performance nas métricas fi
 
 Para uma compreensão visual dos resultados, foram gerados os seguintes gráficos:
 
-### 1. Percentual de Faturamento de cada loja
-Grafico de pizza mostrando quanto cada loja corresponde do faturameto total das lojas Aluna Store
+## 📊 Visualizações e Análises
+
+Este projeto apresenta três visualizações principais para análise do desempenho das lojas Alura Store:
+
+### 1. Percentual de Faturamento de cada Loja
+![Mapas de calor](assets/Mapas%20de%20calor.png)
+
+Gráfico de pizza mostrando quanto cada loja corresponde do faturamento total das lojas Alura Store, permitindo identificar rapidamente quais unidades têm maior participação nas receitas.
 
 ### 2. Vendas Trimestrais
-Gráfico de linha mostrando a evolução do faturamento de cada loja ao longo dos trimestres.
+![Vendas trimestrais](assets/Vendas%20trimestrais.png)
+
+Gráfico de linha mostrando a evolução do faturamento de cada loja ao longo dos trimestres, facilitando a análise de tendências e sazonalidade nas vendas.
 
 ### 3. Distribuição Geográfica das Vendas
-Gráfico de dispersão que ilustra o alcance e a concentração das vendas por localização
+![Download](assets/download.png)
+
+Gráfico de dispersão que ilustra o alcance e a concentração das vendas por localização, ajudando a compreender a distribuição geográfica do desempenho das lojas.
 
 ---
 
