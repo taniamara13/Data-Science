@@ -20,31 +20,12 @@ Para isso, realizamos uma análise aprofundada dos dados de vendas, desempenho f
 
 A análise comparativa das lojas revelou a seguinte performance nas métricas financeiras e de satisfação:
 
-Loja
-Total de Vendas (R$)
-Ticket Médio (R$)
-Avaliação Média
-Frete Médio (R$)
-Loja 1
-1.616.347,09
-685,18
-3.98
-137.99
-Loja 2
-1.567.773,22
-664,59
-4.04
-137.99
-Loja 3
-1.542.047,69
-653,69
-4.05
-137.99
-Loja 4
-1.458.253,46
-618,43
-4.00
-137.99
+| Loja | Total de Vendas (R$) | Ticket Médio (R$) | Avaliação Média | Frete Médio (R$) |
+| :--- | :--- | :--- | :--- | :--- |
+| Loja 1 | 1.616.347,09 | 685,18 | 3.98 | 137,99 |
+| Loja 2 | 1.567.773,22 | 664,59 | 4.04 | 137,99 |
+| Loja 3 | 1.542.047,69 | 653,69 | 4.05 | 137,99 |
+| Loja 4 | 1.458.253,46 | 618,43 | 4.00 | 137,99 |
 
 
 
