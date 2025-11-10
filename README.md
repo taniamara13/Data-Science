@@ -32,13 +32,18 @@ A análise comparativa das lojas revelou a seguinte performance nas métricas fi
 🖼️ Visualizações Chave
 
 Para uma compreensão visual dos resultados, foram gerados os seguintes gráficos:
+1. Percentual de Faturamento de cada loja
+   Grafico de pizza mostrando quanto cada loja corresponde do faturameto total das lojas Aluna Store
 
-## 2. Vendas Trimestrais
-
+3. Vendas Trimestrais
 Gráfico de linha mostrando a evolução do faturamento de cada loja ao longo dos trimestres.
-
-![Gráfico de Vendas Trimestrais por Loja](vendas trimestrais.png)
 
 4. Distribuição Geográfica das Vendas
 Gráfico de dispersão que ilustra o alcance e a concentração das vendas por localização
 
+Resumo da Recomendação Final
+Com base na análise de desempenho financeiro, satisfação do cliente, evolução temporal e perfil geográfico, a Loja 4 é a loja com a menor eficiência da rede.
+
+Recomendação: A Loja 4 deve ser considerada para VENDA.
+
+Justificativa: A venda da Loja 4 permite que o Senhor João realoque capital e esforços para as lojas mais promissoras (1, 2 e 3) ou invista em outro negocio, maximizando o retorno sobre o investimento e otimizando a performance geral da rede Alura Store.
